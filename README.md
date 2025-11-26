@@ -29,7 +29,7 @@ Os modelos Grok 4 (Base, Fast Reasoning, No-Reasoning) são líderes em versatil
 - ⚡ **Grok 4 Fast Reasoning**: Análise rápida e decisões ágeis
 - 🎯 **Grok 4 No-Reasoning**: Execução direta e processamento de alto volume
 
-**[Ver guia completo dos modelos Grok 4 →](grok4-models-ifood.md)**
+**[Ver guia completo com prompts para modelos Grok 4 →](grok4-models-ifood.md)**
 
 ---
 
@@ -57,11 +57,11 @@ Os modelos Cohere Command A (conversação avançada) e Embed 4 (embeddings mult
 - 🎯 **Cohere Command A**: Conversação avançada, RAG otimizado, agentes inteligentes
 - 🔍 **Cohere Embed 4**: Embeddings multimodais (texto + imagem), busca semântica de alta precisão
 
-**[Ver guia completo dos modelos Cohere →](cohere-new-models-ifood.md)**
+**[Ver guia completo com prompts para modelos Cohere →](cohere-new-models-ifood.md)**
 
 ---
 
-## 🚀 SEÇÃO 4: EXEMPLOS DE PROMPTS PARA CENÁRIOS DO IFOOD
+## 🚀 SEÇÃO 4: ALGUNS EXEMPLOS DE PROMPTS PARA CENÁRIOS DO IFOOD
 
 ### 4.1 Geração Automática de Descrições de Pratos
 **Caso de Uso Real do Gen AI Plat**: Otimização de catálogos com descrições SEO-friendly
@@ -189,6 +189,8 @@ Formato: Relatório de análise de risco incluindo:
 4. Recomendação de ação
 5. Medidas preventivas sugeridas
 ```
+
+Veja mais exemplos nas seções dos modelos
 
 ---
 
