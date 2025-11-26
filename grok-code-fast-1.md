@@ -354,14 +354,6 @@ Governança: [Segurança, compliance, documentação]
 
 ---
 
-## 🔧 INTEGRAÇÃO COM IFOOD GEN AI PLAT
-
-### Acesso ao Modelo
-- **Disponibilidade**: On-demand (não disponível em dedicated mode)
-- **Regiões suportadas**: US East (Ashburn), US Midwest (Chicago), US West (Phoenix)
-- **Integração**: Acessível diretamente através do iFood Gen AI Plat
-- **Gerenciamento**: Hospedado em tenancy OCI provisionada para xAI
-
 ### Endpoint via OCI
 ```bash
 # Exemplo de chamada para Grok Code Fast I
@@ -375,13 +367,6 @@ curl -X POST https://generativeai.oci.oraclecloud.com/20231130/actions/generateT
     "temperature": 0.7
   }'
 ```
-
-### Configuração no iFood Gen AI Plat
-1. **Acesse a plataforma**: Login no iFood Gen AI Plat
-2. **Selecione modelo**: Escolha "xAI Grok Code Fast 1" na lista
-3. **Configure parâmetros**: Ajuste maxTokens, temperature, topP
-4. **Teste integração**: Use o playground para validação
-5. **Implemente**: Configure para uso em produção
 
 ### Otimização de Custos
 - **Cached input tokens**: Reutilize prompts similares para redução de custos
