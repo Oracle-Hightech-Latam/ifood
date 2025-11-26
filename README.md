@@ -221,9 +221,12 @@ Veja mais exemplos nas seções dos modelos
 - **[Oracle MyLearn](https://www.oracle.com/br/education/mylearn/)**: Plataforma de aprendizado personalizada
 - **[Oracle Guided Learning](https://www.oracle.com/br/education/guided-learning/)**: Orientação no aplicativo para adoção digital
 
+### Webinar xAI, iFood e Oracle
+- https://videohub.oracle.com/media/1_wk7lo0j7
+
 ---
 
-## 🤝 SEÇÃO 7: ENTRE EM CONTATO
+## 🤝 SEÇÃO 7: BORA FALAR?
 
 Vamos criar coisas novas e first of a kind juntos? Nossa equipe está disponível para colaborar com você!
 
